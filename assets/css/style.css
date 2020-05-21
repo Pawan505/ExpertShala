@@ -796,6 +796,9 @@ section {
   text-align: center;
   margin-bottom: 20px;
 }
+.team{
+  justify-content: center;
+}
 
 .team .member .pic {
   margin-bottom: 15px;
